@@ -6,7 +6,7 @@ This web site includes all of the **readings notes** that are related to *Code 2
 
 | Number  | Title                            |
 |---------|----------------------------------|
-| Read 01 | [Introductry HTML and JavaScript]() |
+| Read 01 | [Introductry HTML and JavaScript](https://boshrajaber.github.io/reading-notes/class-01) |
 | Read 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions]() |
 | Read 03 | [HTML Lists, Control Flow with JS, and the CSS Box Model]() |
 | Read 04 | [HTML Links, CSS Layout, JS Functions]() |
