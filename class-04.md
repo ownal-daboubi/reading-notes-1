@@ -47,16 +47,21 @@ top: 0px;
 left: 500px;
 width: 250px;}
 ```
+
 4. `position:fixed;`: Fixed positioning is a type of absolute positioning that requires the position property to have a value of fixed.
 
 # Functions in JavaScript:
+
 ## What is functions:
 * Functions let you group a series of statements together to perform a specific task. 
 * If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements.
+
 ## Declaring a function:
 `**function** Function-Name() {Code Block;}`
+
 ## Calling a function:
 `Function_Name();`
+
 ## Declarings function that needs information:
 `**function** Function-Name(parameters) {Code Block; **return** parameters;}`
 
