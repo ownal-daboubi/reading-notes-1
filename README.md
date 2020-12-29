@@ -9,7 +9,7 @@ This web site includes all of the **readings notes** that are related to *Code 2
 | Read 01 | [Introductry HTML and JavaScript](class-01.md) |
 | Read 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md) |
 | Read 03 | [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md) |
-| Read 04 | [HTML Links, CSS Layout, JS Functions]() |
+| Read 04 | [HTML Links, CSS Layout, JS Functions](class-04.md) |
 | Read 05 | [HTMl images, CSS Colors & Text]() |
 | Read 06 | [JS Object Literals; The DOM]() |
 | Read 07 | [HTML Tables; JS Constructor Functions]() |

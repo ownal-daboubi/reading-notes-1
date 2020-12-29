@@ -48,3 +48,47 @@ left: 500px;
 width: 250px;}
 ```
 4. `position:fixed;`: Fixed positioning is a type of absolute positioning that requires the position property to have a value of fixed.
+
+# Functions in JavaScript:
+## What is functions:
+* Functions let you group a series of statements together to perform a specific task. 
+* If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements.
+## Declaring a function:
+`**function** Function-Name() {Code Block;}`
+## Calling a function:
+`Function_Name();`
+## Declarings function that needs information:
+`**function** Function-Name(parameters) {Code Block; **return** parameters;}`
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--pClJgvrv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/mt2jlra7jd5gdgl8up8y.png)
+
+## Calling a function that needs information:
+`Function-Name(parameters value);`
+
+## Functions Expressions:
+* Expressions produce a value. They can be used where values are expected.
+* If a function is placed where a browser expects to see an expression, then it gets treated as an expression.
+* An Example:
+``` var ar ea = f unction(width, height) {
+r eturn width * height;
+} ;
+var size = area(3, 4) ;
+```
+## Variable Scope in JavaScript:
+1. local scope: When a variable is created inside a function using the var keyword, it can only be used in that function. It is called a local variable or function-level variable. It is said to have local scope.
+2. global scope: If you create a variable outside of a function, then it can be used anywhere within the script. It is called a global variable and has global scope.
+
+## Variables and Memory:
+* Global variables use more memory. The browser has to remember them for as long as the web page using them is loaded.
+* Local variables are only remembered during the period of time that a function is being executed.
+
+![](https://i.imgur.com/iZ9I8lV.png)
+
+# 6 Reasons for Pair Programming:
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
+![](https://stackify.com/wp-content/uploads/2017/05/Pair_Programming-e1496165906922-1280x720.png)
