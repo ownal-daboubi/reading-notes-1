@@ -37,6 +37,7 @@ left: 100px;
 }
 
 ```
+
 3. `position:absolute;`: for absolute positioning, the box is taken out of normal flow and no longer affects the
 position of other elements on the page.
 Ex: 
