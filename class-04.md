@@ -27,8 +27,8 @@ Ex: `<a href="http://www.imdb.com" target="_blank">`
 
 # Layout:
 ## position property:
-1. `position: static;` : for normal flow.this is the default way in which browsers treat HTML elements.
-2. `position: relative;` : for Relative positioning, moves an element in relation to where it would have been in normal flow.
+1. position: static; : for normal flow.this is the default way in which browsers treat HTML elements.
+2. position: relative; : for Relative positioning, moves an element in relation to where it would have been in normal flow.
 Ex:
 ``` p.example {
 position: relative;
@@ -38,7 +38,7 @@ left: 100px;
 
 ```
 
-3. `position:absolute;`: for absolute positioning, the box is taken out of normal flow and no longer affects the
+3. position:absolute;: for absolute positioning, the box is taken out of normal flow and no longer affects the
 position of other elements on the page.
 Ex: 
 ```
@@ -49,7 +49,7 @@ left: 500px;
 width: 250px;}
 ```
 
-4. `position:fixed;`: Fixed positioning is a type of absolute positioning that requires the position property to have a value of fixed.
+4. position:fixed;: Fixed positioning is a type of absolute positioning that requires the position property to have a value of fixed.
 
 # Functions in JavaScript:
 
