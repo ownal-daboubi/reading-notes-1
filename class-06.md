@@ -63,7 +63,7 @@ if (hotltems.length > O) {
     }
  ```
 
-## Accesse and update text and markup:
+## Access and update text and markup:
 * Using the **innerHTML property**, you can access and amend the contents of an element, including any child elements.
 
 ## Adding an element using DOM manipulation:
@@ -71,7 +71,7 @@ if (hotltems.length > O) {
 2. Give it content: `createTextNode()`
 3. Add it to the DOM: `appendChild()`
 
-## Removing an element using DOM manipuation:
+## Removing an element using DOM manipulation:
 1. Store the element to be remove in a variable.
 2. Store its parent in a variable.
 3. Remove the element from its containing element: `removeChild()`.
