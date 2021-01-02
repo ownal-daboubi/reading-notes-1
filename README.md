@@ -11,7 +11,7 @@ This web site includes all of the **readings notes** that are related to *Code 2
 | Read 03 | [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md) |
 | Read 04 | [HTML Links, CSS Layout, JS Functions](class-04.md) |
 | Read 05 | [HTMl images, CSS Colors & Text](class-05.md) |
-| Read 06 | [JS Object Literals; The DOM]() |
+| Read 06 | [JS Object Literals; The DOM](class-06.md) |
 | Read 07 | [HTML Tables; JS Constructor Functions]() |
 | Read 08 | [More CSS Layout]() |
 | Read 09 | [Forms and Events]() |
