@@ -1,8 +1,8 @@
 # Read: 07 - HTML Tables; JS Constructor Functions:
 # Domain Modeling:
 * Domain modeling is the process of creating a conceptual model in code for a specific problem.
-* A model describes the various entities, their attributes,behaviors, and the constraints that govern the problem domain.
-* Object-oriented model:An entity that stores data in properties and encapsulates behaviors in methods.
+* A model describes the various entities, their attributes, behaviors, and the constraints that govern the problem domain.
+* Object-oriented model: An entity that stores data in properties and encapsulates behaviors in methods.
 * Tips for building domain models:
  1. When modeling a single entity that'll have many instances, build self-contained objects with the same attributes and behaviors.
  2. Model its attributes with a constructor function that defines and initializes properties.
@@ -65,7 +65,7 @@
          return this.rooms - this . booked;
          };
  ```
- 2. create new object: new keyword, followed by a call to the function.
+ 2. create a new object: `new` keyword, followed by a call to the function.
  `var newHotel = new Hotel ('new', 4,2)`
 * The keyword `this`: It always refers to one object, usually the object in which the function operates.
 * Array can be considered a type of object.
