@@ -1,12 +1,12 @@
-# Readings : CSS Layout
+# Readings: CSS Layout
 # Layout:
-we use Layout to control where each HTML element sits on a page and how to make this layput eye-catching
+we use Layout to control where each HTML element sits on a page and how to make this layout eye-catching
 
 ![](https://devdocs.magento.com/common/images/layouts_block_containers_defn21.png)
 
 
 ## position property:
-List of properties used to control the elemets of the page:
+List of properties used to control the elements of the page:
 1. position: static; : for normal flow.this is the default way in which browsers treat HTML elements.
 2. position: relative; : for Relative positioning, moves an element in relation to where it would have been in normal flow.
 Ex:
@@ -37,7 +37,7 @@ z-index: 10;}
 ```
 6. The float property: allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible. 
 Ex: `float: right;`
-7. The clear property: allows you to say that no element should touch the left or righ sides of a box.
+7. The clear property: allows you to say that no element should touch the left or right sides of a box.
 Ex: `clear: left;`
 8. `@import` rule: to import other style sheets. 
 9. `<link>` element: rule to import other style sheets. 
