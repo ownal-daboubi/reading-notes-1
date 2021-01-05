@@ -5,7 +5,7 @@
 * `method` attribute (get or post): used to send the forms.
 * `id` attribute: used to identify the form distinctly from other elements on the page.
 * `<input>` element: used to create several different form controls.
-* `type="text"` attribute: it creates a singleline text input.
+* `type="text"` attribute: it creates a single-line text input.
 * `name` attribute: When users enter information into a form, the server needs to know which form control each piece of data was entered into.
 * `<textarea>` element: used to create a mutli-line text input.
 * `<select>` element: used to create a drop down list box.
@@ -58,7 +58,7 @@ value="Subscribe" />
 
 ## Forms properties:
 * Styling text input using: font-size, color, background-color, border..etc.
-* Styling submit botton using: border-bottom, background-color, text-shadow.
+* Styling submit button using: border-bottom, background-color, text-shadow.
 * Styling fieldsets using: border-radius, padding
 
 ![](https://uicookies.com/wp-content/uploads/2019/09/css-contact-form-1000x750.jpg)
