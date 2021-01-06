@@ -68,5 +68,15 @@ value="Subscribe" />
 * Binding is the process of stating which event you are waiting to happen, and which element you are waiting for that event to happen  upon.
 * When an event occurs on an element, it can trigger a JavaScript function. When this function then changes the web page in some way, it feels interactive because it has responded to the user.
 * You can use event delegation to monitor for events that happen on all of the children of an element. The most commonly used events are W3C DOM events, although there are others in the HTMLS specification as well as browser-specific events.
+* Events can be used to trigger a function in your JavaScript code.
+* Event Handling:
+ 1. Select the element node(s) you want the script to respond to.
+ 2. Binding: Indicate which event on the selected node(s) will trigger the response.
+ 3. State the code you want to run when the event occurs.
+* Traditional Event Handler: `element .onevent = functionName ;`.
+* Event listener: `element .addEventlistener('event', functionName [, Boolean]) ;`.
+* Changing delfault behaviour of an element:
+ 1. `preventDefault ()`.
+ 2. `stopPropagation()`.
 
 ![](https://i.stack.imgur.com/BTm1H.png)
