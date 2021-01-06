@@ -5,7 +5,7 @@
 * `method` attribute (get or post): used to send the forms.
 * `id` attribute: used to identify the form distinctly from other elements on the page.
 * `<input>` element: used to create several different form controls.
-* `type="text"` attribute: it creates a singleline text input.
+* `type="text"` attribute: it creates a single-line text input.
 * `name` attribute: When users enter information into a form, the server needs to know which form control each piece of data was entered into.
 * `<textarea>` element: used to create a mutli-line text input.
 * `<select>` element: used to create a drop down list box.
@@ -58,7 +58,7 @@ value="Subscribe" />
 
 ## Forms properties:
 * Styling text input using: font-size, color, background-color, border..etc.
-* Styling submit botton using: border-bottom, background-color, text-shadow.
+* Styling submit button using: border-bottom, background-color, text-shadow.
 * Styling fieldsets using: border-radius, padding
 
 ![](https://uicookies.com/wp-content/uploads/2019/09/css-contact-form-1000x750.jpg)
@@ -73,8 +73,13 @@ value="Subscribe" />
  1. Select the element node(s) you want the script to respond to.
  2. Binding: Indicate which event on the selected node(s) will trigger the response.
  3. State the code you want to run when the event occurs.
+<<<<<<< HEAD
 * Traditional Event Handler: `element .onevent = functionName ;`
 * Event listener: `element .addEventlistener('event', functionName [, Boolean]) ;`
+=======
+* Traditional Event Handler: `element .onevent = functionName ;`.
+* Event listener: `element .addEventlistener('event', functionName [, Boolean]) ;`.
+>>>>>>> 98fffa1029cafe458feed5dde2a1f5bfe74692a1
 * Changing delfault behaviour of an element:
  1. `preventDefault ()`.
  2. `stopPropagation()`.
